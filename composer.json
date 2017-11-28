@@ -1,0 +1,15 @@
+{
+  "name": "huguoqiang-php/satis",
+  "description": "satis package test",
+  "type": "library",
+  "authors": [
+    {
+      "name": "huguoqiang",
+      "email": "wennuanchengge@163.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "influxdb/influxdb-php": "^1.14"
+  }
+}
